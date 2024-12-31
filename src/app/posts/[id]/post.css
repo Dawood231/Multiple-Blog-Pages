@@ -34,7 +34,7 @@
       );
     background-blend-mode: normal, normal, normal, normal, normal;
     width: 100%;
-    height: 100vh;
+    height: auto;
   }
   
   .link-back {

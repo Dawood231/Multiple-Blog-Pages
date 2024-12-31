@@ -9,8 +9,8 @@ import Image from 'next/image';
 
 const posts = [
   { id: 1, image: blog1, title: 'Artificial intelligence', content: 'Artificial intelligence (AI) is the science and engineering of creating intelligent machines that can perform tasks that typically require human intelligence.' },
-  { id: 2, image: blog2, title: 'Imapct Of Technology', content: 'This is the content of the second post.' },
-  { id: 3, image: blog3, title: 'Agentic AI Future 2025', content: 'This is the content of the third post.' },
+  { id: 2, image: blog2, title: 'Imapct Of Technology', content: 'Technology has many impacts on society, including positive and negative effects.' },
+  { id: 3, image: blog3, title: 'Agentic AI Future 2025', content: 'Agentic AI is a type of AI thats all about autonomy.' },
   { id: 4, image: blog2, title: 'Birds lifestyle', content: 'This is the content of the third post.' },
 ];
 
