@@ -12,7 +12,7 @@ const posts = [
   { id: 1, image: blog1, title: 'Artificial intelligence', content: 'Artificial intelligence (AI) is the science and engineering of creating intelligent machines that can perform tasks that typically require human intelligence.' },
   { id: 2, image: blog2, title: 'Imapct Of Technology', content: 'Technology has many impacts on society, including positive and negative effects.' },
   { id: 3, image: blog3, title: 'Agentic AI Future 2025', content: 'Agentic AI is a type of AI thats all about autonomy.' },
-  { id: 4, image: blog4, title: 'Most Valuable Programming Language', content: 'The "most valuable" programming language can vary depending on context, such as industry, job market, or the specific use case you are focusing on. .' },
+  { id: 4, image: blog4, title: 'Most Valuable Programming Language', content: 'The "most valuable" programming language can vary depending on context, such as industry, job market, or the specific use  .' },
 ];
 
 export default function Home() {

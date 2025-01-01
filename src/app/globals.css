@@ -41,8 +41,8 @@ body {
       transparent 24.819747276612727%
     );
   background-blend-mode: normal, normal, normal, normal, normal;
-  width: 100%;
-  height: 100vh;
+  width: auto;
+  height: auto;
   padding: 2rem 4rem;
 }
 
