@@ -4,7 +4,7 @@ import Link from "next/link";
 import "./post.css";
 import Header from "@/app/components/header";
 import Footer from "@/app/components/footer";
-import { title } from "process";
+
 
 const posts = [
   {
